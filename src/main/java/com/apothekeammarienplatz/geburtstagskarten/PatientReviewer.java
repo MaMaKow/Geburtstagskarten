@@ -33,5 +33,4 @@ public class PatientReviewer {
             System.out.println(patient.getVorname() + " " + patient.getNachname() + System.lineSeparator() + patient.getAdresse() + System.lineSeparator() + patient.getGeburtsDatum());
         });
     }
-
 }
